@@ -23,3 +23,5 @@ Developed a predictive model using machine learning to identify employees in the
 #### **Deep Learning Project**
 **Brain Tumor Detection**  
 Developed a Convolutional Neural Network (CNN) model to enhance the accuracy of brain tumor detection from MRI images, addressing the critical challenge of distinguishing between tumorous and non-tumorous cases with a remarkable validation accuracy of 98.33%.
+
+
