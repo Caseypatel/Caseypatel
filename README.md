@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center"><a href="https://nickbutani.github.io"><img width="80%" alt="Hello, I'm Casey Patel. I do website!" src="./assests/Readme-head-2.png" /></a></p>
+
+<br />
 
 Experienced Data Scientist/ Data Analyst with a Bachelor's degree in Information Science and Technology and a Data Science certification from Springboard. Skilled in Python, SQL, R, and tools like Pandas and Scikit-Learn, with hands-on experience in data analysis and machine learning. Proficient in Regex, Unix, and Mainframe JCL. Extensive understanding of data privacy elements and confidential data management. Demonstrated excellence in articulation and coordination skills, with a passion for using data to uncover insights and solve problems.
 
