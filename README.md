@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nickbutani.github.io"><img width="80%" alt="Hello, I'm Casey Patel. I do website!" src="./assests/Readme-head-2.png" /></a></p>
+<p align="center"><a href="https://nickbutani.github.io"><img width="80%" alt="Hello, I'm Casey Patel. I do website!" src="./assets/Readme-head-2.png" /></a></p>
 
 <br />
 
